@@ -1,11 +1,10 @@
-package org.vaillant;
+package org.company;
 
 import java.io.IOException;
 import java.nio.charset.StandardCharsets;
 import java.nio.file.Files;
 import java.nio.file.Path;
 import java.util.ArrayList;
-import java.util.HashSet;
 import java.util.List;
 
 public class InstallersFileReader {

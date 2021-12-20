@@ -1,4 +1,4 @@
-package org.vaillant;
+package org.company;
 
 import lombok.EqualsAndHashCode;
 import lombok.Getter;

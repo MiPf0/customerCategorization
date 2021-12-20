@@ -1,4 +1,4 @@
-package org.vaillant;
+package org.company;
 
 import java.io.IOException;
 import java.nio.file.Path;

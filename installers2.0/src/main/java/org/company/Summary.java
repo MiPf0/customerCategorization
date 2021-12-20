@@ -1,4 +1,4 @@
-package org.vaillant;
+package org.company;
 
 import lombok.EqualsAndHashCode;
 import lombok.Getter;
@@ -198,7 +198,7 @@ public class Summary {
     int ReactivatedInactiveInstallersLYUnitsLYytd;
     int ReactivatedInactiveInstallersLYUnitsLLYytd;
 
-    //Aufsätze Waterfall
+    //Aufsï¿½tze Waterfall
     int aufsatzChurnInactiveAYLYUnitsYtd;
     int aufsatzReactivatedChurnInactiveAYLYUnitsYtd;
     int aufsatzNewConvertedStableCustomerAYLYUnitsYtd;

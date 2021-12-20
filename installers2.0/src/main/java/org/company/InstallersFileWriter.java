@@ -1,4 +1,4 @@
-package org.vaillant;
+package org.company;
 
 import java.io.File;
 import java.io.FileWriter;
