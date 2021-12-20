@@ -1,0 +1,43 @@
+UZG;Nr;Kundengruppe grob;Channel;Zielgruppe
+Not assigned;#;Fachhandwerker;non;SONSTIGES
+Installateure (FHW) [01];1;Fachhandwerker;Heating;Fachhandwerker
+Großhändler [02];2;GROSSHANDEL;non;GROSSHANDEL
+Baugesellschaft [07];7;Fachhandwerker;non;Projekt
+Fertighaushersteller [08];8;Fachhandwerker;non;Projekt
+unabhängige KD-Firma [10];10;Fachhandwerker;non;Fachhandwerker
+Verbraucherberater [11];11;Fachhandwerker;non;SONSTIGES
+Innung [12];12;Fachhandwerker;non;SONSTIGES
+Architekt [13];13;Fachhandwerker;non;Projekt
+Ing. und Planungsbüros [14];14;Fachhandwerker;non;Projekt
+Bauamt (Behörden) [15];15;Fachhandwerker;non;Projekt
+Fachschule / Fachlehrer [16];16;Fachhandwerker;non;Fachhandwerker
+Schornsteinfeger [17];17;Fachhandwerker;non;Fachhandwerker
+Hausverwaltungen [33];33;Fachhandwerker;non;Projekt
+Generalbauunternehmen [37];37;Fachhandwerker;non;Projekt
+Sonstige [40];40;Fachhandwerker;non;SONSTIGES
+Bauträger [62];62;Fachhandwerker;non;Projekt
+Lieferanten und Dienstleister [63];63;Fachhandwerker;non;SONSTIGES
+Brennstoffhändler [64];64;Fachhandwerker;non;Fachhandwerker
+Doppelkonzessionär [65];65;Fachhandwerker;Electro;Fachhandwerker
+Klima-, Lüftungstechnikunternehmen [66];66;Fachhandwerker;AirCon;Fachhandwerker
+Elektroinstallateur [67];67;Fachhandwerker;non;Fachhandwerker
+Elektrohändler [68];68;Fachhandwerker;non;Fachhandwerker
+Handelskette [69];69;Fachhandwerker;non;SONSTIGES
+Energieversorger Elektro [72];72;Fachhandwerker;non;Fachhandwerker
+Intern, Eigenpersonal [73];73;Fachhandwerker;non;SONSTIGES
+Filialbetriebe Installateure [75];75;Fachhandwerker;Heating;Fachhandwerker
+Filialbetriebe GH [76];76;GROSSHANDEL;non;GROSSHANDEL
+Filialbetriebe Elektro GH [77];77;GROSSHANDEL;non;GROSSHANDEL
+E-Großhandel [79];79;GROSSHANDEL;non;GROSSHANDEL
+Elektro Planer [81];81;Fachhandwerker;non;Projekt
+Energieversorger [82];82;Fachhandwerker;non;SONSTIGES
+Bau- / Projektmanagement [83];83;Fachhandwerker;non;Projekt
+Exportkunde [84];84;Fachhandwerker;non;SONSTIGES
+FHH Musterhaus [85];85;Fachhandwerker;non;Projekt
+Gemeinnützige Baugesellschaften [86];86;Fachhandwerker;non;Projekt
+gelöschter Partner GH Elektro [93];93;GROSSHANDEL;non;GROSSHANDEL
+gelöschter Partner GH Heizung [94];94;GROSSHANDEL;non;GROSSHANDEL
+vorläufig gelöschter Partner Heizung [95];95;Fachhandwerker;non;Fachhandwerker
+vorläufig gelöschter Partner Elektro [96];96;Fachhandwerker;non;Fachhandwerker
+vorläufig gelöschter Partner Bau [97];97;Fachhandwerker;non;Projekt
+gelöschter Partner [99];99;Fachhandwerker;non;SONSTIGES

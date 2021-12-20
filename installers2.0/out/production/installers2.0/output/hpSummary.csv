@@ -1,0 +1,52 @@
+timeframe
+Rolling 12m from;from;202010;to;202109
+YTD;from;202101;to;202109
+
+number of installers & units (without Grosshandel)
+category;installers (12mr);units AY 12mr;units LY 12mr;units LLY 12mr;units AY ytd;units LY ytd;units LLY ytd;
+Stable AY;291;2528;1982;1552;1878;1442;1082;
+Stable LY;238;2147;1941;1641;1600;1363;1141;
+Stable LLY;207;1961;1700;1669;1454;1189;1131;
+New AY;203;371;0;43;268;-1;33;
+New LY;170;222;269;0;169;223;0;
+New LLY;135;187;164;224;145;110;178;
+Converted AY;93;165;0;31;125;0;23;
+Converted LY;101;157;185;0;124;135;0;
+Converted LLY;84;148;89;151;94;65;103;
+Active AY (Stable+New+Converted);587;3064;1982;1626;2271;1441;1138;
+Active LY (Stable+New+Converted);509;2526;2395;1641;1893;1721;1141;
+Churn AY;23;41;144;100;32;92;71;
+Churn LY;23;43;52;160;17;34;113;
+Churn LLY;16;39;39;23;27;32;16;
+Inactive AY;218;0;321;149;0;221;101;
+Inactive LY;181;145;-1;266;103;-1;174;
+Inactive LLY;161;110;74;0;73;53;0;
+Prospect AY;1577;0;-1;192;0;0;118;
+Prospect LY;1692;391;0;0;290;0;0;
+Prospect LLY;1802;660;380;0;510;305;0;
+Reactivated Churn AY;11;39;20;65;14;17;45;
+Reactivated Churn LY;12;36;39;19;26;32;15;
+Reactivated Inactive AY;51;145;0;74;103;-1;56;
+Reactivated Inactive LY;45;62;74;0;47;53;0;
+Reactivated Churn+Inactive AY;62;184;20;139;117;16;101;
+Reactivated Churn+Inactive LY;57;98;113;19;73;85;15;
+
+Plus/Minus YTD Units of AY in comparison to LY (without Grosshandel) ("Waterfall")
+Churn+Inactives (AY YTD lost Units of Churn+Inactives AY12mr compared to LY YTD lost Units of Churn+Inactives LY12mr VS. LY YTD lost Units of Churn+Inactives LY12mr compared to LLY YTD lost Units of Churn+Inactives LLY12mr): ;-27
+Reactivated Churn+Inactives (AY YTD Units of Reactivated Churn+Inactives AY12mr VS. LY YTD Units of Reactivated Churn+Inactives LY12mr): ;32
+New (AY YTD Units of New AY12mr VS. LY YTD Units of New LY12mr): ;45
+Converted (AY YTD Units of Converted AY12mr VS. LY YTD Units of Converted& LY12mr): ;-10
+Stable (AY YTD Units of Stable AY12mr VS. LY YTD Units of Stable LY12mr): ;515
+New+Conv+Stables (AY YTD Units of New&Converted&Stable AY12mr VS. LY YTD Units of New&Converted&Stable LY12mr): ;550
+
+Numbers of installers per channel with sales YTD (without Grosshandel)
+Heating installers with sales YTD;464
+Electro installers with sales YTD;42
+AirCon installers with sales YTD;1
+installers with sales YTD;507
+
+Numbers of installers per Zielgruppe with sales YTD (without Grosshandel)
+Fachhandwerker with sales YTD;510
+Grosshandel with sales YTD;0
+Projekt with sales YTD;5
+Sonstiges with sales YTD;1
